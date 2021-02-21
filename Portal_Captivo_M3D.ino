@@ -17,8 +17,8 @@ static const int servoPin3 = 12;
 static const int servoPin4 = 13;
 
 // Replace with your network credentials
-const char* ssid     = "MARTHA";
-const char* password = "futbol1234";
+const char* ssid     = "SSID";
+const char* password = "PASS";
 
 // Set web server port number to 80
 
